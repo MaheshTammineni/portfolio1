@@ -1,0 +1,23 @@
+{
+  "main.css": "/static/css/main.b79d9ddd.chunk.css",
+  "main.js": "/static/js/main.835fc7d5.chunk.js",
+  "main.js.map": "/static/js/main.835fc7d5.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.e6002803.js",
+  "runtime~main.js.map": "/static/js/runtime~main.e6002803.js.map",
+  "static/css/2.f12bf9a7.chunk.css": "/static/css/2.f12bf9a7.chunk.css",
+  "static/js/2.ce3f4e41.chunk.js": "/static/js/2.ce3f4e41.chunk.js",
+  "static/js/2.ce3f4e41.chunk.js.map": "/static/js/2.ce3f4e41.chunk.js.map",
+  "static/js/3.71e6714e.chunk.js": "/static/js/3.71e6714e.chunk.js",
+  "static/js/3.71e6714e.chunk.js.map": "/static/js/3.71e6714e.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.5ef6eceea97ac43578596408a85ea8f8.js": "/precache-manifest.5ef6eceea97ac43578596408a85ea8f8.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.f12bf9a7.chunk.css.map": "/static/css/2.f12bf9a7.chunk.css.map",
+  "static/css/main.b79d9ddd.chunk.css.map": "/static/css/main.b79d9ddd.chunk.css.map",
+  "static/media/Charlestown-Pizza.png": "/static/media/Charlestown-Pizza.52ce0d8f.png",
+  "static/media/Gridlinesbuilders.png": "/static/media/Gridlinesbuilders.4a960ad3.png",
+  "static/media/React-App-netflix-clone.png": "/static/media/React-App-netflix-clone.c1b7dd36.png",
+  "static/media/style.css": "/static/media/web-removebg-preview.c2c03bb2.png",
+  "static/media/App.css": "/static/media/bars.41c255ea.svg",
+  "static/media/todolist.png": "/static/media/todolist.4c6cd4fd.png"
+}
